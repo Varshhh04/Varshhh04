@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Varshitha</h1>
 <h3 align="center">Passionate CSE student | Exploring code, algorithms, and innovation.</h3>
-<img align ="right" width = "400" src="https://camo.githubusercontent.com/c43c9cf4c99c2467f8b447ad9486c63efa40446374c65568f1ea395a0c0e9e34/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578626d63305a4464315a6a6872636e7074617a6b344d6d45794e6d7335596d646d637a686d613231794f48566a626a646c6332677961695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f7061547a37555a625066545a4652596e6e422f67697068792e676966" alt="student">
 
-- 🔭 I’m currently working on **Smart agriculture**
+
+
 
 - 🌱 I’m currently learning **Machine learning, Deep learning**
+
+- 🔭 Worked on **Smart agriculture** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Varshhh04](https://github.com/Varshhh04)
 
